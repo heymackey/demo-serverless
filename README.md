@@ -20,3 +20,8 @@ $ npm run deploy
 
 - the amount of AWS policy file knowledge required is a non-starter for non-devopsy folks
 - yaml is an awful format for this level of configuration (arrays, nested keys)
+
+## todos
+
+- [ ] setup offline mode
+- [ ] separate lambdas per endpoint
